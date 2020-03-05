@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-This AndroidFirebaseApp allows the user to display and store information in input text feilds inside the database and the information then can be called inside a displayed list. This app is perfect for making a grocery shopping list or a todo list and everything in between.
+This AndroidFirebaseApp allows the user to display and store information in input text feilds inside the database and the information then can be seen inside a displayed list. 
 
 # Getting Started
 
